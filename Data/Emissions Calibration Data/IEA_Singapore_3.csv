@@ -1,0 +1,97 @@
+"emissions from power generation by source in Singapore",Value,Year,Units
+"Coal",0,2000, MtCO2
+"Coal",0,2001, MtCO2
+"Coal",0,2002, MtCO2
+"Coal",0,2003, MtCO2
+"Coal",0,2004, MtCO2
+"Coal",0,2005, MtCO2
+"Coal",0,2006, MtCO2
+"Coal",0,2007, MtCO2
+"Coal",0,2008, MtCO2
+"Coal",0,2009, MtCO2
+"Coal",0,2010, MtCO2
+"Coal",0,2011, MtCO2
+"Coal",0.009,2012, MtCO2
+"Coal",0.532,2013, MtCO2
+"Coal",0.895,2014, MtCO2
+"Coal",0.964,2015, MtCO2
+"Coal",1.027,2016, MtCO2
+"Coal",1.179,2017, MtCO2
+"Coal",1.168,2018, MtCO2
+"Coal",1.097,2019, MtCO2
+"Coal",0.991,2020, MtCO2
+"Coal",1.107,2021, MtCO2
+"Coal",1.006,2022, MtCO2
+"Coal",0.879,2023, MtCO2
+"Oil",21.346,2000, MtCO2
+"Oil",19.274,2001, MtCO2
+"Oil",15.703,2002, MtCO2
+"Oil",10.312,2003, MtCO2
+"Oil",8.204,2004, MtCO2
+"Oil",7.129,2005, MtCO2
+"Oil",6.231,2006, MtCO2
+"Oil",6.112,2007, MtCO2
+"Oil",5.58,2008, MtCO2
+"Oil",5.438,2009, MtCO2
+"Oil",6.874,2010, MtCO2
+"Oil",6.865,2011, MtCO2
+"Oil",4.944,2012, MtCO2
+"Oil",2.109,2013, MtCO2
+"Oil",0.646,2014, MtCO2
+"Oil",0.552,2015, MtCO2
+"Oil",0.355,2016, MtCO2
+"Oil",0.503,2017, MtCO2
+"Oil",0.294,2018, MtCO2
+"Oil",0.253,2019, MtCO2
+"Oil",0.27,2020, MtCO2
+"Oil",0.584,2021, MtCO2
+"Oil",1.077,2022, MtCO2
+"Oil",0.377,2023, MtCO2
+"Natural gas",2.629,2000, MtCO2
+"Natural gas",4.172,2001, MtCO2
+"Natural gas",6.767,2002, MtCO2
+"Natural gas",9.847,2003, MtCO2
+"Natural gas",11.597,2004, MtCO2
+"Natural gas",10.839,2005, MtCO2
+"Natural gas",11.759,2006, MtCO2
+"Natural gas",12.296,2007, MtCO2
+"Natural gas",12.541,2008, MtCO2
+"Natural gas",12.062,2009, MtCO2
+"Natural gas",12.61,2010, MtCO2
+"Natural gas",12.985,2011, MtCO2
+"Natural gas",14.24,2012, MtCO2
+"Natural gas",16.052,2013, MtCO2
+"Natural gas",17.055,2014, MtCO2
+"Natural gas",17.246,2015, MtCO2
+"Natural gas",17.681,2016, MtCO2
+"Natural gas",17.782,2017, MtCO2
+"Natural gas",17.893,2018, MtCO2
+"Natural gas",18.353,2019, MtCO2
+"Natural gas",18.173,2020, MtCO2
+"Natural gas",18.84,2021, MtCO2
+"Natural gas",18.476,2022, MtCO2
+"Natural gas",19.424,2023, MtCO2
+"Other",0.387,2000, MtCO2
+"Other",0.748,2001, MtCO2
+"Other",0.748,2002, MtCO2
+"Other",0.783,2003, MtCO2
+"Other",0.758,2004, MtCO2
+"Other",0.756,2005, MtCO2
+"Other",0.755,2006, MtCO2
+"Other",0.771,2007, MtCO2
+"Other",0.829,2008, MtCO2
+"Other",0.842,2009, MtCO2
+"Other",1.127,2010, MtCO2
+"Other",1.158,2011, MtCO2
+"Other",1.154,2012, MtCO2
+"Other",1.234,2013, MtCO2
+"Other",1.24,2014, MtCO2
+"Other",1.18,2015, MtCO2
+"Other",1.257,2016, MtCO2
+"Other",1.226,2017, MtCO2
+"Other",1.137,2018, MtCO2
+"Other",1.152,2019, MtCO2
+"Other",1.07,2020, MtCO2
+"Other",1.003,2021, MtCO2
+"Other",1.167,2022, MtCO2
+"Other",1.154,2023, MtCO2

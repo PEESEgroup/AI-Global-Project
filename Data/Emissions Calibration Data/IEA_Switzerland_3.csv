@@ -1,0 +1,97 @@
+"emissions from power generation by source in Switzerland",Value,Year,Units
+"Coal",0,2000, MtCO2
+"Coal",0,2001, MtCO2
+"Coal",0,2002, MtCO2
+"Coal",0,2003, MtCO2
+"Coal",0,2004, MtCO2
+"Coal",0,2005, MtCO2
+"Coal",0,2006, MtCO2
+"Coal",0,2007, MtCO2
+"Coal",0,2008, MtCO2
+"Coal",0,2009, MtCO2
+"Coal",0,2010, MtCO2
+"Coal",0,2011, MtCO2
+"Coal",0,2012, MtCO2
+"Coal",0,2013, MtCO2
+"Coal",0,2014, MtCO2
+"Coal",0,2015, MtCO2
+"Coal",0,2016, MtCO2
+"Coal",0,2017, MtCO2
+"Coal",0,2018, MtCO2
+"Coal",0,2019, MtCO2
+"Coal",0,2020, MtCO2
+"Coal",0,2021, MtCO2
+"Coal",0,2022, MtCO2
+"Coal",0,2023, MtCO2
+"Oil",0.147,2000, MtCO2
+"Oil",0.143,2001, MtCO2
+"Oil",0.128,2002, MtCO2
+"Oil",0.153,2003, MtCO2
+"Oil",0.115,2004, MtCO2
+"Oil",0.134,2005, MtCO2
+"Oil",0.125,2006, MtCO2
+"Oil",0.084,2007, MtCO2
+"Oil",0.056,2008, MtCO2
+"Oil",0.053,2009, MtCO2
+"Oil",0.042,2010, MtCO2
+"Oil",0.033,2011, MtCO2
+"Oil",0.059,2012, MtCO2
+"Oil",0.049,2013, MtCO2
+"Oil",0.054,2014, MtCO2
+"Oil",0.048,2015, MtCO2
+"Oil",0.032,2016, MtCO2
+"Oil",0.037,2017, MtCO2
+"Oil",0.029,2018, MtCO2
+"Oil",0.03,2019, MtCO2
+"Oil",0.027,2020, MtCO2
+"Oil",0.036,2021, MtCO2
+"Oil",0.044,2022, MtCO2
+"Oil",0.043,2023, MtCO2
+"Natural gas",0.678,2000, MtCO2
+"Natural gas",0.672,2001, MtCO2
+"Natural gas",0.69,2002, MtCO2
+"Natural gas",0.795,2003, MtCO2
+"Natural gas",0.831,2004, MtCO2
+"Natural gas",0.752,2005, MtCO2
+"Natural gas",0.674,2006, MtCO2
+"Natural gas",0.617,2007, MtCO2
+"Natural gas",0.605,2008, MtCO2
+"Natural gas",0.591,2009, MtCO2
+"Natural gas",0.729,2010, MtCO2
+"Natural gas",0.586,2011, MtCO2
+"Natural gas",0.569,2012, MtCO2
+"Natural gas",0.536,2013, MtCO2
+"Natural gas",0.309,2014, MtCO2
+"Natural gas",0.413,2015, MtCO2
+"Natural gas",0.526,2016, MtCO2
+"Natural gas",0.468,2017, MtCO2
+"Natural gas",0.407,2018, MtCO2
+"Natural gas",0.422,2019, MtCO2
+"Natural gas",0.403,2020, MtCO2
+"Natural gas",0.359,2021, MtCO2
+"Natural gas",0.29,2022, MtCO2
+"Natural gas",0.336,2023, MtCO2
+"Other",1.8,2000, MtCO2
+"Other",1.909,2001, MtCO2
+"Other",1.962,2002, MtCO2
+"Other",1.905,2003, MtCO2
+"Other",2.038,2004, MtCO2
+"Other",2.16,2005, MtCO2
+"Other",2.229,2006, MtCO2
+"Other",2.16,2007, MtCO2
+"Other",2.199,2008, MtCO2
+"Other",1.997,2009, MtCO2
+"Other",2.046,2010, MtCO2
+"Other",2.085,2011, MtCO2
+"Other",2.143,2012, MtCO2
+"Other",2.147,2013, MtCO2
+"Other",2.206,2014, MtCO2
+"Other",2.127,2015, MtCO2
+"Other",2.162,2016, MtCO2
+"Other",2.273,2017, MtCO2
+"Other",2.312,2018, MtCO2
+"Other",2.368,2019, MtCO2
+"Other",2.343,2020, MtCO2
+"Other",2.333,2021, MtCO2
+"Other",2.262,2022, MtCO2
+"Other",2.272,2023, MtCO2
