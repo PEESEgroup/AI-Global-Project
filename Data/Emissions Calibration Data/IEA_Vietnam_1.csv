@@ -1,0 +1,169 @@
+"electricity generation sources in Viet Nam",Value,Year,Units
+"Coal",3135,2000, GWh
+"Coal",3218,2001, GWh
+"Coal",4878,2002, GWh
+"Coal",7237,2003, GWh
+"Coal",7173,2004, GWh
+"Coal",12175,2005, GWh
+"Coal",14114,2006, GWh
+"Coal",14620,2007, GWh
+"Coal",14723,2008, GWh
+"Coal",14979,2009, GWh
+"Coal",19690,2010, GWh
+"Coal",22429,2011, GWh
+"Coal",24855,2012, GWh
+"Coal",27192,2013, GWh
+"Coal",34602,2014, GWh
+"Coal",56469,2015, GWh
+"Coal",68351,2016, GWh
+"Coal",67714,2017, GWh
+"Coal",90783,2018, GWh
+"Coal",118805,2019, GWh
+"Coal",119147,2020, GWh
+"Coal",115025,2021, GWh
+"Coal",111113,2022, GWh
+"Coal",122646,2023, GWh
+"Oil",4519,2000, GWh
+"Oil",4757,2001, GWh
+"Oil",4386,2002, GWh
+"Oil",2658,2003, GWh
+"Oil",1685,2004, GWh
+"Oil",2167,2005, GWh
+"Oil",1404,2006, GWh
+"Oil",2656,2007, GWh
+"Oil",1569,2008, GWh
+"Oil",1785,2009, GWh
+"Oil",3410,2010, GWh
+"Oil",1749,2011, GWh
+"Oil",372,2012, GWh
+"Oil",424,2013, GWh
+"Oil",515,2014, GWh
+"Oil",992,2015, GWh
+"Oil",1182,2016, GWh
+"Oil",150,2017, GWh
+"Oil",751,2018, GWh
+"Oil",2213,2019, GWh
+"Oil",1063,2020, GWh
+"Oil",297,2021, GWh
+"Oil",179,2022, GWh
+"Oil",3521,2023, GWh
+"Natural gas",4356,2000, GWh
+"Natural gas",4423,2001, GWh
+"Natural gas",8334,2002, GWh
+"Natural gas",12044,2003, GWh
+"Natural gas",19533,2004, GWh
+"Natural gas",22319,2005, GWh
+"Natural gas",24502,2006, GWh
+"Natural gas",26618,2007, GWh
+"Natural gas",31062,2008, GWh
+"Natural gas",36358,2009, GWh
+"Natural gas",44148,2010, GWh
+"Natural gas",38827,2011, GWh
+"Natural gas",39426,2012, GWh
+"Natural gas",40862,2013, GWh
+"Natural gas",43263,2014, GWh
+"Natural gas",48148,2015, GWh
+"Natural gas",45365,2016, GWh
+"Natural gas",40347,2017, GWh
+"Natural gas",40701,2018, GWh
+"Natural gas",42507,2019, GWh
+"Natural gas",34802,2020, GWh
+"Natural gas",26312,2021, GWh
+"Natural gas",29410,2022, GWh
+"Natural gas",26372,2023, GWh
+"Hydropower",14551,2000, GWh
+"Hydropower",18210,2001, GWh
+"Hydropower",18198,2002, GWh
+"Hydropower",18986,2003, GWh
+"Hydropower",17818,2004, GWh
+"Hydropower",16945,2005, GWh
+"Hydropower",20408,2006, GWh
+"Hydropower",23035,2007, GWh
+"Hydropower",25986,2008, GWh
+"Hydropower",29981,2009, GWh
+"Hydropower",27550,2010, GWh
+"Hydropower",40924,2011, GWh
+"Hydropower",52795,2012, GWh
+"Hydropower",51955,2013, GWh
+"Hydropower",59841,2014, GWh
+"Hydropower",56123,2015, GWh
+"Hydropower",63941,2016, GWh
+"Hydropower",85940,2017, GWh
+"Hydropower",83081,2018, GWh
+"Hydropower",66117,2019, GWh
+"Hydropower",72892,2020, GWh
+"Hydropower",78553,2021, GWh
+"Hydropower",95929,2022, GWh
+"Hydropower",80595,2023, GWh
+"Biofuels",,2000, GWh
+"Biofuels",,2001, GWh
+"Biofuels",,2002, GWh
+"Biofuels",,2003, GWh
+"Biofuels",,2004, GWh
+"Biofuels",50,2005, GWh
+"Biofuels",65,2006, GWh
+"Biofuels",79,2007, GWh
+"Biofuels",55,2008, GWh
+"Biofuels",62,2009, GWh
+"Biofuels",55,2010, GWh
+"Biofuels",56,2011, GWh
+"Biofuels",57,2012, GWh
+"Biofuels",58,2013, GWh
+"Biofuels",59,2014, GWh
+"Biofuels",56,2015, GWh
+"Biofuels",1421,2016, GWh
+"Biofuels",1479,2017, GWh
+"Biofuels",1538,2018, GWh
+"Biofuels",1599,2019, GWh
+"Biofuels",1660,2020, GWh
+"Biofuels",2094,2021, GWh
+"Biofuels",2296,2022, GWh
+"Biofuels",2077,2023, GWh
+"Wind",,2000, GWh
+"Wind",,2001, GWh
+"Wind",,2002, GWh
+"Wind",,2003, GWh
+"Wind",,2004, GWh
+"Wind",,2005, GWh
+"Wind",,2006, GWh
+"Wind",,2007, GWh
+"Wind",1,2008, GWh
+"Wind",10,2009, GWh
+"Wind",50,2010, GWh
+"Wind",87,2011, GWh
+"Wind",87,2012, GWh
+"Wind",87,2013, GWh
+"Wind",87,2014, GWh
+"Wind",124,2015, GWh
+"Wind",201,2016, GWh
+"Wind",350,2017, GWh
+"Wind",487,2018, GWh
+"Wind",724,2019, GWh
+"Wind",982,2020, GWh
+"Wind",3344,2021, GWh
+"Wind",9090,2022, GWh
+"Wind",11583,2023, GWh
+"Solar PV",,2000, GWh
+"Solar PV",,2001, GWh
+"Solar PV",,2002, GWh
+"Solar PV",,2003, GWh
+"Solar PV",,2004, GWh
+"Solar PV",,2005, GWh
+"Solar PV",,2006, GWh
+"Solar PV",,2007, GWh
+"Solar PV",,2008, GWh
+"Solar PV",,2009, GWh
+"Solar PV",,2010, GWh
+"Solar PV",,2011, GWh
+"Solar PV",,2012, GWh
+"Solar PV",,2013, GWh
+"Solar PV",,2014, GWh
+"Solar PV",,2015, GWh
+"Solar PV",,2016, GWh
+"Solar PV",,2017, GWh
+"Solar PV",22,2018, GWh
+"Solar PV",4818,2019, GWh
+"Solar PV",9575,2020, GWh
+"Solar PV",27791,2021, GWh
+"Solar PV",28397,2022, GWh
+"Solar PV",27222,2023, GWh

@@ -1,0 +1,241 @@
+"electricity generation sources in Romania",Value,Year,Units
+"Coal",19300,2000, GWh
+"Coal",20019,2001, GWh
+"Coal",20629,2002, GWh
+"Coal",23643,2003, GWh
+"Coal",21773,2004, GWh
+"Coal",22138,2005, GWh
+"Coal",25268,2006, GWh
+"Coal",25305,2007, GWh
+"Coal",25882,2008, GWh
+"Coal",21773,2009, GWh
+"Coal",20742,2010, GWh
+"Coal",24803,2011, GWh
+"Coal",22912,2012, GWh
+"Coal",16954,2013, GWh
+"Coal",17808,2014, GWh
+"Coal",18220,2015, GWh
+"Coal",15981,2016, GWh
+"Coal",16857,2017, GWh
+"Coal",15751,2018, GWh
+"Coal",13729,2019, GWh
+"Coal",9481,2020, GWh
+"Coal",10846,2021, GWh
+"Coal",10474,2022, GWh
+"Coal",8091,2023, GWh
+"Oil",3399,2000, GWh
+"Oil",5405,2001, GWh
+"Oil",3578,2002, GWh
+"Oil",3633,2003, GWh
+"Oil",2199,2004, GWh
+"Oil",1894,2005, GWh
+"Oil",1606,2006, GWh
+"Oil",1096,2007, GWh
+"Oil",700,2008, GWh
+"Oil",1031,2009, GWh
+"Oil",692,2010, GWh
+"Oil",769,2011, GWh
+"Oil",751,2012, GWh
+"Oil",560,2013, GWh
+"Oil",486,2014, GWh
+"Oil",474,2015, GWh
+"Oil",704,2016, GWh
+"Oil",632,2017, GWh
+"Oil",598,2018, GWh
+"Oil",598,2019, GWh
+"Oil",600,2020, GWh
+"Oil",756,2021, GWh
+"Oil",1113,2022, GWh
+"Oil",679,2023, GWh
+"Natural gas",9001,2000, GWh
+"Natural gas",8073,2001, GWh
+"Natural gas",8966,2002, GWh
+"Natural gas",9696,2003, GWh
+"Natural gas",10462,2004, GWh
+"Natural gas",9612,2005, GWh
+"Natural gas",11831,2006, GWh
+"Natural gas",11559,2007, GWh
+"Natural gas",9924,2008, GWh
+"Natural gas",7632,2009, GWh
+"Natural gas",7262,2010, GWh
+"Natural gas",8365,2011, GWh
+"Natural gas",8719,2012, GWh
+"Natural gas",9255,2013, GWh
+"Natural gas",8104,2014, GWh
+"Natural gas",9386,2015, GWh
+"Natural gas",9655,2016, GWh
+"Natural gas",10656,2017, GWh
+"Natural gas",10520,2018, GWh
+"Natural gas",8954,2019, GWh
+"Natural gas",9459,2020, GWh
+"Natural gas",9907,2021, GWh
+"Natural gas",9333,2022, GWh
+"Natural gas",9151,2023, GWh
+"Nuclear",5456,2000, GWh
+"Nuclear",5446,2001, GWh
+"Nuclear",5513,2002, GWh
+"Nuclear",4906,2003, GWh
+"Nuclear",5548,2004, GWh
+"Nuclear",5555,2005, GWh
+"Nuclear",5632,2006, GWh
+"Nuclear",7709,2007, GWh
+"Nuclear",11226,2008, GWh
+"Nuclear",11752,2009, GWh
+"Nuclear",11623,2010, GWh
+"Nuclear",11747,2011, GWh
+"Nuclear",11466,2012, GWh
+"Nuclear",11618,2013, GWh
+"Nuclear",11676,2014, GWh
+"Nuclear",11640,2015, GWh
+"Nuclear",11286,2016, GWh
+"Nuclear",11508,2017, GWh
+"Nuclear",11377,2018, GWh
+"Nuclear",11280,2019, GWh
+"Nuclear",11466,2020, GWh
+"Nuclear",11284,2021, GWh
+"Nuclear",11088,2022, GWh
+"Nuclear",11191,2023, GWh
+"Hydropower",14778,2000, GWh
+"Hydropower",14923,2001, GWh
+"Hydropower",16046,2002, GWh
+"Hydropower",13259,2003, GWh
+"Hydropower",16513,2004, GWh
+"Hydropower",20207,2005, GWh
+"Hydropower",18356,2006, GWh
+"Hydropower",15966,2007, GWh
+"Hydropower",17195,2008, GWh
+"Hydropower",15807,2009, GWh
+"Hydropower",20243,2010, GWh
+"Hydropower",14946,2011, GWh
+"Hydropower",12337,2012, GWh
+"Hydropower",15308,2013, GWh
+"Hydropower",19280,2014, GWh
+"Hydropower",17007,2015, GWh
+"Hydropower",18536,2016, GWh
+"Hydropower",14853,2017, GWh
+"Hydropower",18097,2018, GWh
+"Hydropower",16005,2019, GWh
+"Hydropower",15701,2020, GWh
+"Hydropower",17745,2021, GWh
+"Hydropower",14360,2022, GWh
+"Hydropower",18649,2023, GWh
+"Biofuels",,2000, GWh
+"Biofuels",,2001, GWh
+"Biofuels",3,2002, GWh
+"Biofuels",3,2003, GWh
+"Biofuels",4,2004, GWh
+"Biofuels",6,2005, GWh
+"Biofuels",4,2006, GWh
+"Biofuels",35,2007, GWh
+"Biofuels",24,2008, GWh
+"Biofuels",10,2009, GWh
+"Biofuels",111,2010, GWh
+"Biofuels",198,2011, GWh
+"Biofuels",212,2012, GWh
+"Biofuels",252,2013, GWh
+"Biofuels",505,2014, GWh
+"Biofuels",524,2015, GWh
+"Biofuels",531,2016, GWh
+"Biofuels",525,2017, GWh
+"Biofuels",437,2018, GWh
+"Biofuels",504,2019, GWh
+"Biofuels",546,2020, GWh
+"Biofuels",652,2021, GWh
+"Biofuels",647,2022, GWh
+"Biofuels",444,2023, GWh
+"Waste",,2000, GWh
+"Waste",,2001, GWh
+"Waste",,2002, GWh
+"Waste",,2003, GWh
+"Waste",,2004, GWh
+"Waste",1,2005, GWh
+"Waste",,2006, GWh
+"Waste",,2007, GWh
+"Waste",,2008, GWh
+"Waste",,2009, GWh
+"Waste",,2010, GWh
+"Waste",,2011, GWh
+"Waste",,2012, GWh
+"Waste",1,2013, GWh
+"Waste",,2014, GWh
+"Waste",,2015, GWh
+"Waste",,2016, GWh
+"Waste",0,2017, GWh
+"Waste",0,2018, GWh
+"Waste",0,2019, GWh
+"Waste",,2020, GWh
+"Waste",,2021, GWh
+"Waste",0,2022, GWh
+"Waste",0,2023, GWh
+"Wind",,2000, GWh
+"Wind",,2001, GWh
+"Wind",,2002, GWh
+"Wind",,2003, GWh
+"Wind",,2004, GWh
+"Wind",,2005, GWh
+"Wind",,2006, GWh
+"Wind",3,2007, GWh
+"Wind",5,2008, GWh
+"Wind",9,2009, GWh
+"Wind",306,2010, GWh
+"Wind",1388,2011, GWh
+"Wind",2640,2012, GWh
+"Wind",4520,2013, GWh
+"Wind",6201,2014, GWh
+"Wind",7063,2015, GWh
+"Wind",6590,2016, GWh
+"Wind",7406,2017, GWh
+"Wind",6322,2018, GWh
+"Wind",6772,2019, GWh
+"Wind",6945,2020, GWh
+"Wind",6575,2021, GWh
+"Wind",6996,2022, GWh
+"Wind",7548,2023, GWh
+"Solar PV",,2000, GWh
+"Solar PV",,2001, GWh
+"Solar PV",,2002, GWh
+"Solar PV",,2003, GWh
+"Solar PV",,2004, GWh
+"Solar PV",,2005, GWh
+"Solar PV",,2006, GWh
+"Solar PV",,2007, GWh
+"Solar PV",0,2008, GWh
+"Solar PV",0,2009, GWh
+"Solar PV",0,2010, GWh
+"Solar PV",1,2011, GWh
+"Solar PV",8,2012, GWh
+"Solar PV",420,2013, GWh
+"Solar PV",1616,2014, GWh
+"Solar PV",1982,2015, GWh
+"Solar PV",1820,2016, GWh
+"Solar PV",1855,2017, GWh
+"Solar PV",1771,2018, GWh
+"Solar PV",1777,2019, GWh
+"Solar PV",1733,2020, GWh
+"Solar PV",1703,2021, GWh
+"Solar PV",1988,2022, GWh
+"Solar PV",2227,2023, GWh
+"Geothermal",,2000, GWh
+"Geothermal",,2001, GWh
+"Geothermal",,2002, GWh
+"Geothermal",,2003, GWh
+"Geothermal",,2004, GWh
+"Geothermal",,2005, GWh
+"Geothermal",,2006, GWh
+"Geothermal",,2007, GWh
+"Geothermal",,2008, GWh
+"Geothermal",,2009, GWh
+"Geothermal",,2010, GWh
+"Geothermal",,2011, GWh
+"Geothermal",,2012, GWh
+"Geothermal",,2013, GWh
+"Geothermal",0,2014, GWh
+"Geothermal",0,2015, GWh
+"Geothermal",0,2016, GWh
+"Geothermal",,2017, GWh
+"Geothermal",,2018, GWh
+"Geothermal",,2019, GWh
+"Geothermal",,2020, GWh
+"Geothermal",,2021, GWh
+"Geothermal",,2022, GWh
+"Geothermal",,2023, GWh

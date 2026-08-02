@@ -1,0 +1,145 @@
+"electricity generation sources in Singapore",Value,Year,Units
+"Coal",,2000, GWh
+"Coal",,2001, GWh
+"Coal",,2002, GWh
+"Coal",,2003, GWh
+"Coal",,2004, GWh
+"Coal",,2005, GWh
+"Coal",,2006, GWh
+"Coal",,2007, GWh
+"Coal",,2008, GWh
+"Coal",,2009, GWh
+"Coal",,2010, GWh
+"Coal",,2011, GWh
+"Coal",6,2012, GWh
+"Coal",313,2013, GWh
+"Coal",542,2014, GWh
+"Coal",603,2015, GWh
+"Coal",619,2016, GWh
+"Coal",678,2017, GWh
+"Coal",687,2018, GWh
+"Coal",649,2019, GWh
+"Coal",530,2020, GWh
+"Coal",669,2021, GWh
+"Coal",571,2022, GWh
+"Coal",520,2023, GWh
+"Oil",25317,2000, GWh
+"Oil",22845,2001, GWh
+"Oil",18639,2002, GWh
+"Oil",12401,2003, GWh
+"Oil",10012,2004, GWh
+"Oil",8827,2005, GWh
+"Oil",7802,2006, GWh
+"Oil",7787,2007, GWh
+"Oil",7170,2008, GWh
+"Oil",7064,2009, GWh
+"Oil",9376,2010, GWh
+"Oil",8923,2011, GWh
+"Oil",6102,2012, GWh
+"Oil",2254,2013, GWh
+"Oil",345,2014, GWh
+"Oil",352,2015, GWh
+"Oil",361,2016, GWh
+"Oil",365,2017, GWh
+"Oil",317,2018, GWh
+"Oil",216,2019, GWh
+"Oil",212,2020, GWh
+"Oil",557,2021, GWh
+"Oil",1484,2022, GWh
+"Oil",216,2023, GWh
+"Natural gas",5858,2000, GWh
+"Natural gas",9298,2001, GWh
+"Natural gas",15079,2002, GWh
+"Natural gas",21941,2003, GWh
+"Natural gas",25841,2004, GWh
+"Natural gas",28430,2005, GWh
+"Natural gas",30686,2006, GWh
+"Natural gas",32372,2007, GWh
+"Natural gas",33499,2008, GWh
+"Natural gas",33692,2009, GWh
+"Natural gas",35831,2010, GWh
+"Natural gas",35879,2011, GWh
+"Natural gas",39567,2012, GWh
+"Natural gas",44030,2013, GWh
+"Natural gas",47042,2014, GWh
+"Natural gas",47909,2015, GWh
+"Natural gas",49109,2016, GWh
+"Natural gas",49718,2017, GWh
+"Natural gas",50471,2018, GWh
+"Natural gas",51760,2019, GWh
+"Natural gas",50850,2020, GWh
+"Natural gas",52943,2021, GWh
+"Natural gas",52543,2022, GWh
+"Natural gas",54203,2023, GWh
+"Biofuels",,2000, GWh
+"Biofuels",,2001, GWh
+"Biofuels",,2002, GWh
+"Biofuels",,2003, GWh
+"Biofuels",,2004, GWh
+"Biofuels",,2005, GWh
+"Biofuels",,2006, GWh
+"Biofuels",,2007, GWh
+"Biofuels",,2008, GWh
+"Biofuels",,2009, GWh
+"Biofuels",,2010, GWh
+"Biofuels",,2011, GWh
+"Biofuels",,2012, GWh
+"Biofuels",93,2013, GWh
+"Biofuels",155,2014, GWh
+"Biofuels",221,2015, GWh
+"Biofuels",242,2016, GWh
+"Biofuels",237,2017, GWh
+"Biofuels",268,2018, GWh
+"Biofuels",259,2019, GWh
+"Biofuels",245,2020, GWh
+"Biofuels",287,2021, GWh
+"Biofuels",292,2022, GWh
+"Biofuels",314,2023, GWh
+"Waste",490,2000, GWh
+"Waste",946,2001, GWh
+"Waste",946,2002, GWh
+"Waste",990,2003, GWh
+"Waste",958,2004, GWh
+"Waste",956,2005, GWh
+"Waste",954,2006, GWh
+"Waste",974,2007, GWh
+"Waste",1048,2008, GWh
+"Waste",1064,2009, GWh
+"Waste",1174,2010, GWh
+"Waste",1206,2011, GWh
+"Waste",1250,2012, GWh
+"Waste",1264,2013, GWh
+"Waste",1260,2014, GWh
+"Waste",1266,2015, GWh
+"Waste",1200,2016, GWh
+"Waste",1215,2017, GWh
+"Waste",1162,2018, GWh
+"Waste",1173,2019, GWh
+"Waste",1060,2020, GWh
+"Waste",1177,2021, GWh
+"Waste",1502,2022, GWh
+"Waste",1192,2023, GWh
+"Solar PV",,2000, GWh
+"Solar PV",,2001, GWh
+"Solar PV",,2002, GWh
+"Solar PV",,2003, GWh
+"Solar PV",,2004, GWh
+"Solar PV",,2005, GWh
+"Solar PV",,2006, GWh
+"Solar PV",,2007, GWh
+"Solar PV",1,2008, GWh
+"Solar PV",3,2009, GWh
+"Solar PV",5,2010, GWh
+"Solar PV",8,2011, GWh
+"Solar PV",13,2012, GWh
+"Solar PV",17,2013, GWh
+"Solar PV",39,2014, GWh
+"Solar PV",69,2015, GWh
+"Solar PV",146,2016, GWh
+"Solar PV",175,2017, GWh
+"Solar PV",243,2018, GWh
+"Solar PV",409,2019, GWh
+"Solar PV",498,2020, GWh
+"Solar PV",726,2021, GWh
+"Solar PV",947,2022, GWh
+"Solar PV",1386,2023, GWh

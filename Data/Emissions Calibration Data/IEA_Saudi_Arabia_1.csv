@@ -1,0 +1,121 @@
+"electricity generation sources in Saudi Arabia",Value,Year,Units
+"Oil",68103,2000, GWh
+"Oil",63535,2001, GWh
+"Oil",62584,2002, GWh
+"Oil",69089,2003, GWh
+"Oil",68840,2004, GWh
+"Oil",76627,2005, GWh
+"Oil",84809,2006, GWh
+"Oil",94809,2007, GWh
+"Oil",104498,2008, GWh
+"Oil",119802,2009, GWh
+"Oil",129298,2010, GWh
+"Oil",141700,2011, GWh
+"Oil",171961,2012, GWh
+"Oil",169566,2013, GWh
+"Oil",209319,2014, GWh
+"Oil",225478,2015, GWh
+"Oil",195868,2016, GWh
+"Oil",174122,2017, GWh
+"Oil",163398,2018, GWh
+"Oil",168219,2019, GWh
+"Oil",164077,2020, GWh
+"Oil",168805,2021, GWh
+"Oil",172378,2022, GWh
+"Oil",181659,2023, GWh
+"Natural gas",58088,2000, GWh
+"Natural gas",70138,2001, GWh
+"Natural gas",79152,2002, GWh
+"Natural gas",83911,2003, GWh
+"Natural gas",91035,2004, GWh
+"Natural gas",99497,2005, GWh
+"Natural gas",96625,2006, GWh
+"Natural gas",95726,2007, GWh
+"Natural gas",99702,2008, GWh
+"Natural gas",97280,2009, GWh
+"Natural gas",110769,2010, GWh
+"Natural gas",108377,2011, GWh
+"Natural gas",117368,2012, GWh
+"Natural gas",133471,2013, GWh
+"Natural gas",127756,2014, GWh
+"Natural gas",134757,2015, GWh
+"Natural gas",173072,2016, GWh
+"Natural gas",205250,2017, GWh
+"Natural gas",225639,2018, GWh
+"Natural gas",219121,2019, GWh
+"Natural gas",229485,2020, GWh
+"Natural gas",238876,2021, GWh
+"Natural gas",243932,2022, GWh
+"Natural gas",257066,2023, GWh
+"Wind",,2000, GWh
+"Wind",,2001, GWh
+"Wind",,2002, GWh
+"Wind",,2003, GWh
+"Wind",,2004, GWh
+"Wind",,2005, GWh
+"Wind",,2006, GWh
+"Wind",,2007, GWh
+"Wind",,2008, GWh
+"Wind",,2009, GWh
+"Wind",,2010, GWh
+"Wind",,2011, GWh
+"Wind",,2012, GWh
+"Wind",,2013, GWh
+"Wind",,2014, GWh
+"Wind",,2015, GWh
+"Wind",,2016, GWh
+"Wind",,2017, GWh
+"Wind",,2018, GWh
+"Wind",,2019, GWh
+"Wind",,2020, GWh
+"Wind",132,2021, GWh
+"Wind",1588,2022, GWh
+"Wind",1588,2023, GWh
+"Solar PV",,2000, GWh
+"Solar PV",,2001, GWh
+"Solar PV",,2002, GWh
+"Solar PV",,2003, GWh
+"Solar PV",,2004, GWh
+"Solar PV",,2005, GWh
+"Solar PV",,2006, GWh
+"Solar PV",,2007, GWh
+"Solar PV",,2008, GWh
+"Solar PV",,2009, GWh
+"Solar PV",4,2010, GWh
+"Solar PV",5,2011, GWh
+"Solar PV",5,2012, GWh
+"Solar PV",26,2013, GWh
+"Solar PV",42,2014, GWh
+"Solar PV",46,2015, GWh
+"Solar PV",46,2016, GWh
+"Solar PV",65,2017, GWh
+"Solar PV",65,2018, GWh
+"Solar PV",320,2019, GWh
+"Solar PV",916,2020, GWh
+"Solar PV",867,2021, GWh
+"Solar PV",980,2022, GWh
+"Solar PV",1049,2023, GWh
+"Solar thermal",,2000, GWh
+"Solar thermal",,2001, GWh
+"Solar thermal",,2002, GWh
+"Solar thermal",,2003, GWh
+"Solar thermal",,2004, GWh
+"Solar thermal",,2005, GWh
+"Solar thermal",,2006, GWh
+"Solar thermal",,2007, GWh
+"Solar thermal",,2008, GWh
+"Solar thermal",,2009, GWh
+"Solar thermal",,2010, GWh
+"Solar thermal",,2011, GWh
+"Solar thermal",,2012, GWh
+"Solar thermal",,2013, GWh
+"Solar thermal",,2014, GWh
+"Solar thermal",,2015, GWh
+"Solar thermal",,2016, GWh
+"Solar thermal",,2017, GWh
+"Solar thermal",11,2018, GWh
+"Solar thermal",135,2019, GWh
+"Solar thermal",135,2020, GWh
+"Solar thermal",135,2021, GWh
+"Solar thermal",135,2022, GWh
+"Solar thermal",135,2023, GWh

@@ -1,0 +1,97 @@
+"electricity generation sources in Oman",Value,Year,Units
+"Oil",1564,2000, GWh
+"Oil",1720,2001, GWh
+"Oil",1860,2002, GWh
+"Oil",1929,2003, GWh
+"Oil",2070,2004, GWh
+"Oil",265,2005, GWh
+"Oil",272,2006, GWh
+"Oil",309,2007, GWh
+"Oil",349,2008, GWh
+"Oil",396,2009, GWh
+"Oil",445,2010, GWh
+"Oil",513,2011, GWh
+"Oil",605,2012, GWh
+"Oil",685,2013, GWh
+"Oil",757,2014, GWh
+"Oil",863,2015, GWh
+"Oil",940,2016, GWh
+"Oil",1038,2017, GWh
+"Oil",1130,2018, GWh
+"Oil",1121,2019, GWh
+"Oil",1375,2020, GWh
+"Oil",1456,2021, GWh
+"Oil",769,2022, GWh
+"Oil",782,2023, GWh
+"Natural gas",7547,2000, GWh
+"Natural gas",8017,2001, GWh
+"Natural gas",8471,2002, GWh
+"Natural gas",8785,2003, GWh
+"Natural gas",9429,2004, GWh
+"Natural gas",12398,2005, GWh
+"Natural gas",13392,2006, GWh
+"Natural gas",14289,2007, GWh
+"Natural gas",15700,2008, GWh
+"Natural gas",18049,2009, GWh
+"Natural gas",19374,2010, GWh
+"Natural gas",21361,2011, GWh
+"Natural gas",24412,2012, GWh
+"Natural gas",25555,2013, GWh
+"Natural gas",28371,2014, GWh
+"Natural gas",31895,2015, GWh
+"Natural gas",33288,2016, GWh
+"Natural gas",35087,2017, GWh
+"Natural gas",36584,2018, GWh
+"Natural gas",37713,2019, GWh
+"Natural gas",36946,2020, GWh
+"Natural gas",39536,2021, GWh
+"Natural gas",40048,2022, GWh
+"Natural gas",42773,2023, GWh
+"Wind",,2000, GWh
+"Wind",,2001, GWh
+"Wind",,2002, GWh
+"Wind",,2003, GWh
+"Wind",,2004, GWh
+"Wind",,2005, GWh
+"Wind",,2006, GWh
+"Wind",,2007, GWh
+"Wind",,2008, GWh
+"Wind",,2009, GWh
+"Wind",,2010, GWh
+"Wind",,2011, GWh
+"Wind",,2012, GWh
+"Wind",,2013, GWh
+"Wind",,2014, GWh
+"Wind",,2015, GWh
+"Wind",,2016, GWh
+"Wind",,2017, GWh
+"Wind",,2018, GWh
+"Wind",8,2019, GWh
+"Wind",103,2020, GWh
+"Wind",118,2021, GWh
+"Wind",114,2022, GWh
+"Wind",114,2023, GWh
+"Solar PV",,2000, GWh
+"Solar PV",,2001, GWh
+"Solar PV",,2002, GWh
+"Solar PV",,2003, GWh
+"Solar PV",,2004, GWh
+"Solar PV",,2005, GWh
+"Solar PV",,2006, GWh
+"Solar PV",,2007, GWh
+"Solar PV",,2008, GWh
+"Solar PV",,2009, GWh
+"Solar PV",,2010, GWh
+"Solar PV",,2011, GWh
+"Solar PV",,2012, GWh
+"Solar PV",1,2013, GWh
+"Solar PV",1,2014, GWh
+"Solar PV",4,2015, GWh
+"Solar PV",4,2016, GWh
+"Solar PV",15,2017, GWh
+"Solar PV",15,2018, GWh
+"Solar PV",16,2019, GWh
+"Solar PV",211,2020, GWh
+"Solar PV",254,2021, GWh
+"Solar PV",1073,2022, GWh
+"Solar PV",1101,2023, GWh
