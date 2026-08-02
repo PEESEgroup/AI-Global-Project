@@ -24,5 +24,5 @@ The repository includes code files used to implement the scenario-based modeling
 -	Off-site carbon-removal evaluation: AI_global_int._inc_offsite evaluates intervention pathways while incorporating off-site carbon-removal mechanisms, including BECCS, DAC, ocean-based carbon capture, enhanced rock weathering, and biomass storage.
 ## Citation
 Please use the following citation when using the data, methods or results of this work:
-> Lal, A. and You, F. Reconciling AI Proliferation with Climate through Exploratory Pathways. Submitted to Nature Climate Change.
+> Lal, A. and You, F. Deeper Decarbonization Targets for AI Proliferation Mitigate the Emerging Energy Conundrum Through 2035. Under Revision in Nature Communications.
 
