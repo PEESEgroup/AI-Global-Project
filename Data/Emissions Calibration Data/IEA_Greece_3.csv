@@ -1,0 +1,97 @@
+"emissions from power generation by source in Greece",Value,Year,Units
+"Coal",34.784,2000, MtCO2
+"Coal",35.714,2001, MtCO2
+"Coal",35.08,2002, MtCO2
+"Coal",35.95,2003, MtCO2
+"Coal",36.779,2004, MtCO2
+"Coal",36.764,2005, MtCO2
+"Coal",33.735,2006, MtCO2
+"Coal",35.189,2007, MtCO2
+"Coal",34.492,2008, MtCO2
+"Coal",35.053,2009, MtCO2
+"Coal",32.36,2010, MtCO2
+"Coal",32.459,2011, MtCO2
+"Coal",32.666,2012, MtCO2
+"Coal",28.42,2013, MtCO2
+"Coal",26.515,2014, MtCO2
+"Coal",22.719,2015, MtCO2
+"Coal",19.276,2016, MtCO2
+"Coal",19.198,2017, MtCO2
+"Coal",18.645,2018, MtCO2
+"Coal",12.936,2019, MtCO2
+"Coal",6.977,2020, MtCO2
+"Coal",6.481,2021, MtCO2
+"Coal",6.384,2022, MtCO2
+"Coal",4.751,2023, MtCO2
+"Oil",6.536,2000, MtCO2
+"Oil",6.221,2001, MtCO2
+"Oil",6.448,2002, MtCO2
+"Oil",6.55,2003, MtCO2
+"Oil",6.075,2004, MtCO2
+"Oil",6.609,2005, MtCO2
+"Oil",6.718,2006, MtCO2
+"Oil",7.102,2007, MtCO2
+"Oil",7.517,2008, MtCO2
+"Oil",5.843,2009, MtCO2
+"Oil",4.644,2010, MtCO2
+"Oil",4.441,2011, MtCO2
+"Oil",4.437,2012, MtCO2
+"Oil",4.061,2013, MtCO2
+"Oil",4.164,2014, MtCO2
+"Oil",4.511,2015, MtCO2
+"Oil",3.832,2016, MtCO2
+"Oil",4.227,2017, MtCO2
+"Oil",4.061,2018, MtCO2
+"Oil",4.045,2019, MtCO2
+"Oil",3.655,2020, MtCO2
+"Oil",3.565,2021, MtCO2
+"Oil",4.125,2022, MtCO2
+"Oil",3.756,2023, MtCO2
+"Natural gas",3.006,2000, MtCO2
+"Natural gas",2.971,2001, MtCO2
+"Natural gas",3.165,2002, MtCO2
+"Natural gas",3.484,2003, MtCO2
+"Natural gas",3.755,2004, MtCO2
+"Natural gas",3.77,2005, MtCO2
+"Natural gas",4.436,2006, MtCO2
+"Natural gas",5.761,2007, MtCO2
+"Natural gas",5.86,2008, MtCO2
+"Natural gas",4.266,2009, MtCO2
+"Natural gas",4.839,2010, MtCO2
+"Natural gas",5.614,2011, MtCO2
+"Natural gas",5.205,2012, MtCO2
+"Natural gas",4.625,2013, MtCO2
+"Natural gas",3.01,2014, MtCO2
+"Natural gas",3.092,2015, MtCO2
+"Natural gas",5.245,2016, MtCO2
+"Natural gas",6.698,2017, MtCO2
+"Natural gas",6.325,2018, MtCO2
+"Natural gas",7.082,2019, MtCO2
+"Natural gas",7.505,2020, MtCO2
+"Natural gas",8.758,2021, MtCO2
+"Natural gas",7.408,2022, MtCO2
+"Natural gas",6.226,2023, MtCO2
+"Other",0.38,2000, MtCO2
+"Other",0.23,2001, MtCO2
+"Other",0.222,2002, MtCO2
+"Other",0.2,2003, MtCO2
+"Other",0.206,2004, MtCO2
+"Other",0.148,2005, MtCO2
+"Other",0.033,2006, MtCO2
+"Other",0.033,2007, MtCO2
+"Other",0.024,2008, MtCO2
+"Other",0.024,2009, MtCO2
+"Other",0.191,2010, MtCO2
+"Other",0.168,2011, MtCO2
+"Other",0.089,2012, MtCO2
+"Other",0.126,2013, MtCO2
+"Other",0.124,2014, MtCO2
+"Other",0.147,2015, MtCO2
+"Other",0.195,2016, MtCO2
+"Other",0,2017, MtCO2
+"Other",0.173,2018, MtCO2
+"Other",0.251,2019, MtCO2
+"Other",0.057,2020, MtCO2
+"Other",0.047,2021, MtCO2
+"Other",0.06,2022, MtCO2
+"Other",0.052,2023, MtCO2
