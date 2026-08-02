@@ -19,6 +19,7 @@ The repository includes code files used to implement the scenario-based modeling
 -	Adoption modeling: AI_global_gbm_peak2031, AI_global_gbm_peak2033, AI_global_gbm_peak2035 implement the generalized Bass model to project AI infrastructure adoption under alternative peak market growth scenarios.
 -	Baseline intervention pathway evaluation: AI_global_int._baseline optimizes technology portfolios for AI data centers under the baseline intervention pathways across the considered climate pathways.
 -	Expanded technology portfolio evaluation: AI_global_int._inc_biopower, AI_global_int._inc_nuclear_foak, AI_global_int._inc_nuclear_noak, and AI_global_int._inc_hydrogen evaluate intervention pathways under expanded technology portfolios incorporating biomass-based electricity generation, SMRs (FOAK and NOAK), and hydrogen-based energy storage.
+-	Workload sensitivity evaluation: AI_global_int._workload_sensitivity evaluates the intervention pathways under alternative AI workload profiles using representative training and inference demand profiles.
 -	Carbon-intensity calibration: AI_global_int._emf_calibration calibrates country-specific electricity-generation emission factors using historical electricity-generation and power-sector emissions data.
 -	Off-site carbon-removal evaluation: AI_global_int._inc_offsite evaluates intervention pathways while incorporating off-site carbon-removal mechanisms, including BECCS, DAC, ocean-based carbon capture, enhanced rock weathering, and biomass storage.
 ## Citation
